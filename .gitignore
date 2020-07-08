@@ -2,3 +2,4 @@
 *.png
 *.jpg
 *-checkpoint*
+config.py
